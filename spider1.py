@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon Dec 21 18:41:35 2020
+@author: tourist03
 
-@author: vineet singh
 """
 
 import cv2 as cv
